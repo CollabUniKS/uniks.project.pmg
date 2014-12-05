@@ -1,4 +1,5 @@
 *.class
+*.cache
 bin/
 target/
 .settings/
